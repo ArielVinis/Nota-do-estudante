@@ -5,4 +5,4 @@
 
 2 - Nota do aluno com função lambda.
 
-3 - Calculadora para verificar percentual e o valor com desconto.
+3 - Calculadora para verificar o valor do produto com desconto.
