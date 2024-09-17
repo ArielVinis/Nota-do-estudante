@@ -9,4 +9,4 @@
 
 4 - Aqui apresenta sobre alguns tipos de operações: Map, list, filter e tupla.
 
-5 - Exercitando as operações apresentadas no 4º item.
+5 - Exercitando as operações apresentadas no 4º item. 
