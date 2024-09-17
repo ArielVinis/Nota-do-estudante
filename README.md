@@ -6,3 +6,7 @@
 2 - Nota do aluno com função lambda.
 
 3 - Calculadora para verificar o valor do produto com desconto.
+
+4 - Aqui apresenta sobre alguns tipos de operações: Map, list, filter e tupla.
+
+5 - Exercitando as operações apresentadas no 4º item.
