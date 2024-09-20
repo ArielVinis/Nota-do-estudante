@@ -16,7 +16,7 @@
 * 3.6 - Conjuntos (sets) para identificar as diferentes regiões dos participantes do evento científico, dicionários para categorizar suas afiliações e arrays NumPy para analisar as áreas de interesse.
 
 #### 4 - Classes e Métodos:
-* 4.1 - O construtor da classe __ init__() pode receber um valor diferente para cada objeto, o que é de suma importância na construção da classe. Nesse caso determinamos dois tipos diferentes de atributos: duas strings (nome e gênero) e um int (idade).
+* 4.1 - O construtor da classe _init _() pode receber um valor diferente para cada objeto, o que é de suma importância na construção da classe. Nesse caso determinamos dois tipos diferentes de atributos: duas strings (nome e gênero) e um int (idade).
 * 4.2 - A herança é um dos pilares fundamentais da programação orientada a objetos, pois permite que uma classe (a classe-filha) herde características e comportamentos de outra classe (a classe-pai).
 * 4.3 - Hora de criar nossa classe e fazer a aplicação.
 
