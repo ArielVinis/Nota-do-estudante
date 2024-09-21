@@ -21,5 +21,9 @@
 * 4.3 - Hora de criar nossa classe e fazer a aplicação.
 
 #### 5 - Bibliotecas e Módulos:
-* 5.1 - 
-* 5.2 - 
+* 5.1 - Eles abrigam uma variedade de funcionalidades, incluindo operações matemáticas, interações com o sistema operacional e muitas outras atividades. Módulos representam uma maneira elegante e eficaz de reutilizar código em diferentes partes de um programa ou em projetos distintos.
+* 5.2 - Podemos classificar os módulos (bibliotecas) em três categorias:
+  * `Módulos built-in: embutidos no interpretador.`
+  * `Módulos de terceiros: criados por terceiros e disponibilizados via PyPI.`
+  * `Módulos próprios: criados pelo desenvolvedor.`
+* 5.3 - O Matplotlib é uma das bibliotecas de visualização mais populares em Python, já que oferece uma ampla gama de recursos para criar gráficos e visualizações de dados de maneira flexível e personalizável. É frequentemente usado para construir gráficos estáticos, interativos e até mesmo animações.
