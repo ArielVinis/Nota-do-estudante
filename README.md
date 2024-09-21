@@ -31,3 +31,8 @@
 #### 6 - Explorando Recursos do Python:
 * 6.1 - Nesse estudo de caso, utilizei estruturas de dados em Python, bibliotecas, orientação a objetos e classes para criar um sistema básico de catalogação de livros.
   * `A utilização de bibliotecas Python adicionaria certas funcionalidades, como salvar e carregar informações de livros a partir de arquivos, bem como interfaces gráficas para a interação do usuário.`
+  
+# <center> -Fim-
+
+### <center> Conforme o tempo, irei incrementando e reformulando o que aprendi.
+### <center> Mas por hora, é isto, obrigado ❤

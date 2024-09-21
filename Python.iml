@@ -6,4 +6,14 @@
     <orderEntry type="jdk" jdkName="Python 3.6 (Nota do Aluno)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="TemplatesService">
+    <option name="templateFileTypes">
+      <list>
+        <option value="HTML" />
+        <option value="PythonStub" />
+        <option value="XHTML" />
+        <option value="XML" />
+      </list>
+    </option>
+  </component>
 </module>
