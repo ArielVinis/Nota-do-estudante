@@ -27,3 +27,7 @@
   * `Módulos de terceiros: criados por terceiros e disponibilizados via PyPI.`
   * `Módulos próprios: criados pelo desenvolvedor.`
 * 5.3 - O Matplotlib é uma das bibliotecas de visualização mais populares em Python, já que oferece uma ampla gama de recursos para criar gráficos e visualizações de dados de maneira flexível e personalizável. É frequentemente usado para construir gráficos estáticos, interativos e até mesmo animações.
+
+#### 6 - Explorando Recursos do Python:
+* 6.1 - Nesse estudo de caso, utilizei estruturas de dados em Python, bibliotecas, orientação a objetos e classes para criar um sistema básico de catalogação de livros.
+  * `A utilização de bibliotecas Python adicionaria certas funcionalidades, como salvar e carregar informações de livros a partir de arquivos, bem como interfaces gráficas para a interação do usuário.`
